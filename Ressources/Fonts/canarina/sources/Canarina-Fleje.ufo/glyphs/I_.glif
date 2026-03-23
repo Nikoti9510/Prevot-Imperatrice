@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I" format="2">
+  <advance width="237"/>
+  <unicode hex="0049"/>
+  <anchor x="119" y="0" name="bottom"/>
+  <anchor x="129" y="0" name="ogonek"/>
+  <anchor x="119" y="700" name="top"/>
+  <anchor x="-5" y="700" name="topleft"/>
+  <outline>
+    <component base="_part.barra" xOffset="-25" identifier="41F9BA37"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-06-20 09:22:29 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>41F9BA37</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="infinity" format="2">
+  <advance width="998"/>
+  <unicode hex="221E"/>
+  <outline>
+    <contour>
+      <point x="290" y="26" type="curve"/>
+      <point x="404" y="36"/>
+      <point x="463" y="120"/>
+      <point x="500" y="207" type="curve"/>
+      <point x="542" y="120"/>
+      <point x="592" y="36"/>
+      <point x="707" y="26" type="curve"/>
+      <point x="823" y="36"/>
+      <point x="957" y="119"/>
+      <point x="968" y="279" type="curve"/>
+      <point x="957" y="450"/>
+      <point x="833" y="538"/>
+      <point x="708" y="538" type="curve"/>
+      <point x="593" y="538"/>
+      <point x="497" y="413"/>
+      <point x="477" y="329" type="curve"/>
+      <point x="522" y="327" type="line"/>
+      <point x="508" y="414"/>
+      <point x="396" y="529"/>
+      <point x="281" y="529" type="curve"/>
+      <point x="190" y="529"/>
+      <point x="41" y="450"/>
+      <point x="30" y="279" type="curve"/>
+      <point x="41" y="119"/>
+      <point x="140" y="36"/>
+    </contour>
+    <contour>
+      <point x="278" y="167" type="curve"/>
+      <point x="213" y="167"/>
+      <point x="169" y="210"/>
+      <point x="169" y="272" type="curve"/>
+      <point x="169" y="342"/>
+      <point x="235" y="390"/>
+      <point x="317" y="390" type="curve"/>
+      <point x="365" y="373"/>
+      <point x="396" y="345"/>
+      <point x="428" y="286" type="curve"/>
+      <point x="383" y="221"/>
+      <point x="323" y="167"/>
+    </contour>
+    <contour>
+      <point x="691" y="167" type="curve"/>
+      <point x="628" y="167"/>
+      <point x="580" y="244"/>
+      <point x="543" y="313" type="curve"/>
+      <point x="539" y="258" type="line"/>
+      <point x="589" y="346"/>
+      <point x="658" y="409"/>
+      <point x="720" y="409" type="curve"/>
+      <point x="785" y="409"/>
+      <point x="819" y="362"/>
+      <point x="829" y="294" type="curve"/>
+      <point x="819" y="219"/>
+      <point x="773" y="167"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:08:22 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

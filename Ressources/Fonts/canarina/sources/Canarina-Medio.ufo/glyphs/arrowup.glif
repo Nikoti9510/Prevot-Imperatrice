@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowup" format="2">
+  <advance width="563"/>
+  <unicode hex="2191"/>
+  <outline>
+    <contour>
+      <point x="444" y="353" type="curve"/>
+      <point x="548" y="402" type="line"/>
+      <point x="464" y="503"/>
+      <point x="399" y="594"/>
+      <point x="329" y="700" type="curve"/>
+      <point x="258" y="687" type="line"/>
+      <point x="325" y="588"/>
+      <point x="399" y="449"/>
+    </contour>
+    <contour>
+      <point x="228" y="0" type="curve"/>
+      <point x="338" y="0" type="line"/>
+      <point x="334" y="94"/>
+      <point x="329" y="453"/>
+      <point x="329" y="700" type="curve"/>
+      <point x="234" y="700" type="line"/>
+      <point x="234" y="414"/>
+      <point x="234" y="216"/>
+    </contour>
+    <contour>
+      <point x="15" y="402" type="curve"/>
+      <point x="119" y="353" type="line"/>
+      <point x="164" y="449"/>
+      <point x="238" y="588"/>
+      <point x="305" y="687" type="curve"/>
+      <point x="234" y="700" type="line"/>
+      <point x="164" y="594"/>
+      <point x="99" y="503"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:17:07 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H" format="2">
+  <advance width="584"/>
+  <unicode hex="0048"/>
+  <unicode hex="0068"/>
+  <anchor x="292" y="0" name="bottom"/>
+  <anchor x="292" y="350" name="center"/>
+  <anchor x="292" y="700" name="top"/>
+  <anchor x="22" y="700" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="187" y="408" type="line"/>
+      <point x="397" y="408" type="line"/>
+      <point x="397" y="438" type="line"/>
+      <point x="187" y="438" type="line"/>
+    </contour>
+    <component base="_part.stemserifs" xOffset="281" identifier="FA6D80D2"/>
+    <component base="_part.stemserifs" xOffset="-9" identifier="FE9DB8B9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-04 12:16:13 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>FA6D80D2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FE9DB8B9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

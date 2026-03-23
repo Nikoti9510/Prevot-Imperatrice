@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <advance width="546"/>
+  <unicode hex="00D0"/>
+  <unicode hex="00F0"/>
+  <outline>
+    <contour>
+      <point x="426" y="350" type="curve"/>
+      <point x="536" y="350" type="line"/>
+      <point x="536" y="526"/>
+      <point x="419" y="700"/>
+      <point x="206" y="700" type="curve"/>
+      <point x="149.5" y="700" type="line"/>
+      <point x="149.5" y="696" type="line"/>
+      <point x="206" y="696" type="line"/>
+      <point x="338" y="696"/>
+      <point x="426" y="558"/>
+    </contour>
+    <contour>
+      <point x="149.5" y="0" type="line"/>
+      <point x="206" y="0" type="line"/>
+      <point x="419" y="0"/>
+      <point x="536" y="184"/>
+      <point x="536" y="350" type="curve"/>
+      <point x="426" y="350" type="line"/>
+      <point x="426" y="152"/>
+      <point x="338" y="4"/>
+      <point x="206" y="4" type="curve"/>
+      <point x="149.5" y="4" type="line"/>
+    </contour>
+    <component base="_part.stem" xOffset="-22" identifier="12BB48D9"/>
+    <component base="_part.shortserif" xOffset="-22" identifier="C0AF880E"/>
+    <component base="_part.shortserif" xOffset="-22" yOffset="-696" identifier="D324B706"/>
+    <component base="_part.wavestrokehorizontal" xOffset="113" identifier="7EAB3491"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-11-05 18:40:26 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>O</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>12BB48D9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>7EAB3491</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C0AF880E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D324B706</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

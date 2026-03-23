@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent" format="2">
+  <advance width="350"/>
+  <unicode hex="00A2"/>
+  <outline>
+    <contour>
+      <point x="112" y="110" type="curve"/>
+      <point x="294" y="110" type="line"/>
+      <point x="311" y="137"/>
+      <point x="322" y="163"/>
+      <point x="330" y="199" type="curve"/>
+      <point x="330" y="278" type="line"/>
+      <point x="244" y="255" type="line"/>
+      <point x="244" y="195" type="line"/>
+      <point x="165" y="195" type="line"/>
+      <point x="139" y="216"/>
+      <point x="125" y="235"/>
+      <point x="109" y="261" type="curve"/>
+      <point x="118" y="342"/>
+      <point x="125" y="416"/>
+      <point x="164" y="503" type="curve"/>
+      <point x="241" y="503" type="line"/>
+      <point x="241" y="429" type="line"/>
+      <point x="322" y="457" type="line"/>
+      <point x="322" y="543" type="line"/>
+      <point x="278" y="580" type="line"/>
+      <point x="97" y="580" type="line"/>
+      <point x="51" y="475"/>
+      <point x="36" y="383"/>
+      <point x="20" y="284" type="curve"/>
+      <point x="20" y="222" type="line"/>
+      <point x="46" y="181"/>
+      <point x="72" y="143"/>
+    </contour>
+    <contour>
+      <point x="144" y="0" type="curve"/>
+      <point x="251" y="0" type="line"/>
+      <point x="245" y="104"/>
+      <point x="242" y="77"/>
+      <point x="242" y="182" type="curve"/>
+      <point x="152" y="182" type="line"/>
+      <point x="152" y="78"/>
+      <point x="150" y="110"/>
+    </contour>
+    <contour>
+      <point x="152" y="518" type="curve"/>
+      <point x="242" y="518" type="line"/>
+      <point x="242" y="623"/>
+      <point x="245" y="596"/>
+      <point x="251" y="700" type="curve"/>
+      <point x="144" y="700" type="line"/>
+      <point x="150" y="590"/>
+      <point x="152" y="622"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-27 09:34:06 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>c</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>c</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.stemserifs" format="2">
+  <advance width="286"/>
+  <outline>
+    <component base="_part.stem" identifier="8B6AFF31"/>
+    <component base="_part.longserif" identifier="10171511"/>
+    <component base="_part.longserif" xScale="-1" yScale="-1" xOffset="286" yOffset="700" identifier="5E6B1A67"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-04 12:13:06 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>10171511</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>5E6B1A67</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>8B6AFF31</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

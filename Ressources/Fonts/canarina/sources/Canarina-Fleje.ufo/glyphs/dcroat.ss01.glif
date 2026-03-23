@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat.ss01" format="2">
+  <advance width="473"/>
+  <outline>
+    <contour>
+      <point x="173" y="548" type="curve"/>
+      <point x="335" y="561" type="line"/>
+      <point x="388" y="561" type="line"/>
+      <point x="486" y="556" type="line"/>
+      <point x="490" y="562"/>
+      <point x="495" y="577"/>
+      <point x="498" y="594" type="curve"/>
+      <point x="495" y="621"/>
+      <point x="488" y="652"/>
+      <point x="480" y="670" type="curve"/>
+      <point x="143" y="670" type="line"/>
+      <point x="135" y="641"/>
+      <point x="135" y="607"/>
+      <point x="143" y="584" type="curve"/>
+      <point x="150" y="568"/>
+      <point x="162" y="554"/>
+    </contour>
+    <component base="d.ss01"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:08:22 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>d.ss01</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

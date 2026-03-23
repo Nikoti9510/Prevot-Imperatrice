@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2D4D.ss01" format="2">
+  <advance width="614"/>
+  <outline>
+    <contour>
+      <point x="147" y="-22" type="line"/>
+      <point x="331" y="292" type="line"/>
+      <point x="505" y="585" type="line"/>
+      <point x="462" y="700" type="line"/>
+      <point x="250" y="339" type="line"/>
+      <point x="45" y="0" type="line"/>
+    </contour>
+    <component base="_part.barra" xOffset="-16"/>
+    <component base="_part.barra" xOffset="401"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:08:22 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

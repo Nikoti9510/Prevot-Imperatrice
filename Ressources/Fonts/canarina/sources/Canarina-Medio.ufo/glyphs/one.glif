@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one" format="2">
+  <advance width="354"/>
+  <unicode hex="0031"/>
+  <outline>
+    <contour>
+      <point x="102" y="460" type="line"/>
+      <point x="260" y="651" type="line"/>
+      <point x="202" y="700" type="line"/>
+      <point x="25" y="538" type="line"/>
+    </contour>
+    <component base="_part.barra" xOffset="142"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:08:22 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

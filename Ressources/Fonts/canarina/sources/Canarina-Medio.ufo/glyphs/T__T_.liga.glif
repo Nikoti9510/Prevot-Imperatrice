@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T_T.liga" format="2">
+  <advance width="1005"/>
+  <outline>
+    <contour>
+      <point x="544" y="608" type="curve"/>
+      <point x="745" y="618" type="line"/>
+      <point x="958" y="608" type="line"/>
+      <point x="968" y="625"/>
+      <point x="976" y="646"/>
+      <point x="980" y="673" type="curve"/>
+      <point x="977" y="683"/>
+      <point x="972" y="692"/>
+      <point x="966" y="700" type="curve"/>
+      <point x="552" y="700" type="line"/>
+      <point x="542" y="683"/>
+      <point x="534" y="662"/>
+      <point x="530" y="635" type="curve"/>
+      <point x="533" y="625"/>
+      <point x="538" y="616"/>
+    </contour>
+    <contour>
+      <point x="39" y="608" type="curve"/>
+      <point x="260" y="618" type="line"/>
+      <point x="453" y="608" type="line"/>
+      <point x="463" y="625"/>
+      <point x="471" y="646"/>
+      <point x="475" y="673" type="curve"/>
+      <point x="472" y="683"/>
+      <point x="467" y="692"/>
+      <point x="461" y="700" type="curve"/>
+      <point x="47" y="700" type="line"/>
+      <point x="37" y="683"/>
+      <point x="29" y="662"/>
+      <point x="25" y="635" type="curve"/>
+      <point x="28" y="625"/>
+      <point x="33" y="616"/>
+    </contour>
+    <component base="_part.barra" xOffset="145"/>
+    <component base="_part.barra" xOffset="630"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:08:22 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>T</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="p" format="2">
+  <advance width="409"/>
+  <unicode hex="0070"/>
+  <anchor x="243" y="0" name="bottom"/>
+  <anchor x="108" y="10" name="ogonek"/>
+  <anchor x="133" y="470" name="top"/>
+  <outline>
+    <component base="_part.arcobp" identifier="E2DAD8B2"/>
+    <component base="_part.descender" identifier="8E1CA1EA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-10-02 14:07:35 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>8E1CA1EA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E2DAD8B2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

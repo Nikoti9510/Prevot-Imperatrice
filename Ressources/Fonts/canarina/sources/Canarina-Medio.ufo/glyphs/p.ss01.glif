@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="p.ss01" format="2">
+  <advance width="397"/>
+  <anchor x="231" y="0" name="bottom"/>
+  <anchor x="231" y="490" name="top"/>
+  <outline>
+    <contour>
+      <point x="51" y="-240" type="curve"/>
+      <point x="154" y="-240" type="line"/>
+      <point x="148" y="-165"/>
+      <point x="144" y="-94"/>
+      <point x="144" y="5" type="curve" smooth="yes"/>
+      <point x="144" y="173"/>
+      <point x="153" y="309"/>
+      <point x="158" y="470" type="curve"/>
+      <point x="48" y="470" type="line"/>
+      <point x="52" y="333"/>
+      <point x="60" y="230"/>
+      <point x="60" y="92" type="curve" smooth="yes"/>
+      <point x="60" y="-17"/>
+      <point x="54" y="-146"/>
+    </contour>
+    <component base="_part.arcobpalt"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:08:22 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

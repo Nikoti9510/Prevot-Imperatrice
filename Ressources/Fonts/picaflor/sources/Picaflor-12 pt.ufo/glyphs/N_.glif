@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
+  <advance width="524"/>
+  <unicode hex="004E"/>
+  <unicode hex="006E"/>
+  <anchor x="262" y="0" name="bottom"/>
+  <anchor x="283" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="438" y="-57" type="line"/>
+      <point x="438" y="190" type="line"/>
+      <point x="184" y="700" type="line"/>
+      <point x="97" y="700" type="line"/>
+      <point x="97" y="628" type="line"/>
+    </contour>
+    <component base="_part.shortserif" xOffset="313" identifier="D60D0DA9"/>
+    <component base="_part.stemthin" xOffset="11" identifier="B6A1BD9F"/>
+    <component base="_part.verticalstrokethin" xOffset="333" identifier="9DC7D05B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2021-01-11 14:40:13 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>9DC7D05B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B6A1BD9F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D60D0DA9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

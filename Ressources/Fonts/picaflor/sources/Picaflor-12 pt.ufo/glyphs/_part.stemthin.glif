@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.stemthin" format="2">
+  <advance width="180"/>
+  <outline>
+    <component base="_part.shortserif" xOffset="-20" yOffset="-670" identifier="D9E049A6"/>
+    <component base="_part.shortserif" xOffset="-20" identifier="AEB7C9D3"/>
+    <component base="_part.verticalstrokethin" identifier="BBEE490F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-04 12:13:06 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>AEB7C9D3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BBEE490F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D9E049A6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

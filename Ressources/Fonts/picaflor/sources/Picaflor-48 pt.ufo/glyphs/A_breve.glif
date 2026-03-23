@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abreve" format="2">
+  <advance width="455"/>
+  <unicode hex="0102"/>
+  <unicode hex="0103"/>
+  <outline>
+    <component base="A"/>
+    <component base="uni0306" xOffset="107.5" yOffset="2.5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-10-30 17:53:49 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

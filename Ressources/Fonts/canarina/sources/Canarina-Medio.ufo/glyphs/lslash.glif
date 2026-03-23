@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash" format="2">
+  <advance width="245"/>
+  <unicode hex="0142"/>
+  <outline>
+    <contour>
+      <point x="-30" y="286" type="curve"/>
+      <point x="-2" y="235" type="line"/>
+      <point x="24" y="235" type="line"/>
+      <point x="72" y="260"/>
+      <point x="167" y="335"/>
+      <point x="220" y="378" type="curve"/>
+      <point x="177" y="437" type="line"/>
+      <point x="112" y="386"/>
+      <point x="43" y="335"/>
+    </contour>
+    <component base="l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:08:22 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

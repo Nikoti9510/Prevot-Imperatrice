@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.ss01" format="2">
+  <advance width="273"/>
+  <anchor x="112" y="0" name="bottom"/>
+  <anchor x="102" y="400" name="center"/>
+  <anchor x="102" y="730" name="top"/>
+  <anchor x="253" y="800" name="topright"/>
+  <outline>
+    <contour>
+      <point x="138" y="0" type="line"/>
+      <point x="248" y="0" type="line"/>
+      <point x="263" y="126" type="line"/>
+      <point x="138" y="121" type="line"/>
+    </contour>
+    <component base="_part.barramin" xOffset="-20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:08:22 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

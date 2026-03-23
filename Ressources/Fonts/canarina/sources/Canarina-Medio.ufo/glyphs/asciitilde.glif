@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciitilde" format="2">
+  <advance width="452"/>
+  <unicode hex="007E"/>
+  <outline>
+    <contour>
+      <point x="278" y="192" type="curve"/>
+      <point x="319" y="200"/>
+      <point x="346" y="218"/>
+      <point x="376" y="251" type="curve"/>
+      <point x="407" y="333" type="line"/>
+      <point x="387" y="353" type="line"/>
+      <point x="328" y="352" type="line"/>
+      <point x="323" y="325"/>
+      <point x="315" y="306"/>
+      <point x="301" y="286" type="curve"/>
+      <point x="246" y="327"/>
+      <point x="212" y="346"/>
+      <point x="164" y="363" type="curve"/>
+      <point x="85" y="321" type="line"/>
+      <point x="45" y="233" type="line"/>
+      <point x="52" y="208" type="line"/>
+      <point x="120" y="198" type="line"/>
+      <point x="151" y="272" type="line"/>
+      <point x="194" y="253"/>
+      <point x="227" y="232"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:08:22 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

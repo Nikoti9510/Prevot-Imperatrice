@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater" format="2">
+  <advance width="400"/>
+  <unicode hex="003E"/>
+  <outline>
+    <contour>
+      <point x="138" y="530" type="curve"/>
+      <point x="20" y="406" type="line"/>
+      <point x="131" y="339"/>
+      <point x="202" y="271"/>
+      <point x="250" y="200" type="curve"/>
+      <point x="380" y="203" type="line"/>
+      <point x="380" y="287" type="line"/>
+      <point x="295" y="349"/>
+      <point x="205" y="438"/>
+    </contour>
+    <contour>
+      <point x="20" y="114" type="curve"/>
+      <point x="138" y="-10" type="line"/>
+      <point x="205" y="52"/>
+      <point x="295" y="131"/>
+      <point x="380" y="203" type="curve"/>
+      <point x="380" y="287" type="line"/>
+      <point x="250" y="290" type="line"/>
+      <point x="202" y="229"/>
+      <point x="131" y="181"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:18:54 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

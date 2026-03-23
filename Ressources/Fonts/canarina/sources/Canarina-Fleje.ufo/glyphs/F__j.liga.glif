@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F_j.liga" format="2">
+  <advance width="652"/>
+  <anchor x="259" y="0" name="bottom"/>
+  <anchor x="259" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="403" y="558" type="line"/>
+      <point x="413" y="575"/>
+      <point x="421" y="616"/>
+      <point x="425" y="653" type="curve"/>
+      <point x="411" y="700" type="line"/>
+      <point x="103" y="700" type="line"/>
+      <point x="103" y="578" type="line"/>
+    </contour>
+    <contour>
+      <point x="350" y="244" type="line"/>
+      <point x="367" y="266"/>
+      <point x="382" y="306"/>
+      <point x="388" y="343" type="curve"/>
+      <point x="378" y="393" type="line"/>
+      <point x="103" y="383" type="line"/>
+      <point x="103" y="254" type="line"/>
+    </contour>
+    <component base="_part.barra" xOffset="-25"/>
+    <component base="j" xOffset="420"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-26 06:37:13 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>F</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>j</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

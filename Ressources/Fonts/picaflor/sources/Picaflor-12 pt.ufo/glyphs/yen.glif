@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen" format="2">
+  <advance width="460"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="188.5" y="252" type="line"/>
+      <point x="287.5" y="267.5" type="line"/>
+      <point x="193" y="700" type="line"/>
+      <point x="90.5" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="94" type="line"/>
+      <point x="395" y="94" type="line"/>
+      <point x="395" y="124" type="line"/>
+      <point x="80" y="124" type="line"/>
+    </contour>
+    <contour>
+      <point x="187.5" y="0" type="line"/>
+      <point x="287.5" y="0" type="line"/>
+      <point x="287.5" y="267.5" type="line"/>
+      <point x="187.5" y="267.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="171" type="line"/>
+      <point x="395" y="171" type="line"/>
+      <point x="395" y="201" type="line"/>
+      <point x="80" y="201" type="line"/>
+    </contour>
+    <contour>
+      <point x="284.5" y="252" type="line"/>
+      <point x="382.5" y="700" type="line"/>
+      <point x="352" y="700" type="line"/>
+      <point x="257.5" y="267.5" type="line"/>
+    </contour>
+    <contour>
+      <point x="299.5" y="670" type="line"/>
+      <point x="427.5" y="670" type="line"/>
+      <point x="427.5" y="700" type="line"/>
+      <point x="299.5" y="700" type="line"/>
+    </contour>
+    <component base="_part.longserif" xOffset="-14" identifier="DE893C36"/>
+    <component base="_part.longserif" xScale="-1" yScale="-1" xOffset="394" yOffset="700" identifier="8296B2AF"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-11-05 21:44:19 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>8296B2AF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DE893C36</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

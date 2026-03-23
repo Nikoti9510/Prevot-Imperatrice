@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2D4E" format="2">
+  <advance width="596"/>
+  <unicode hex="2D4E"/>
+  <outline>
+    <contour>
+      <point x="169" y="0" type="line"/>
+      <point x="524" y="0" type="line"/>
+      <point x="534" y="24"/>
+      <point x="543" y="48"/>
+      <point x="546" y="85" type="curve"/>
+      <point x="543" y="105"/>
+      <point x="538" y="124"/>
+      <point x="532" y="142" type="curve"/>
+      <point x="169" y="122" type="line"/>
+    </contour>
+    <contour>
+      <point x="519" y="558" type="line"/>
+      <point x="529" y="585"/>
+      <point x="537" y="616"/>
+      <point x="541" y="653" type="curve"/>
+      <point x="527" y="700" type="line"/>
+      <point x="169" y="700" type="line"/>
+      <point x="167" y="578" type="line"/>
+    </contour>
+    <component base="_part.barra"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:08:22 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

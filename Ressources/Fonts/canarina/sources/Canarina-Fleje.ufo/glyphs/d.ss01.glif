@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="d.ss01" format="2">
+  <advance width="493"/>
+  <anchor x="186" y="0" name="bottom"/>
+  <anchor x="186" y="245" name="center"/>
+  <anchor x="319" y="700" name="top"/>
+  <anchor x="405" y="490" name="topright"/>
+  <outline>
+    <component base="_part.barramin" xOffset="228" identifier="19435DF2"/>
+    <component base="_part.arcoqalt" identifier="CF800349"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-18 15:20:16 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>19435DF2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CF800349</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJ" format="2">
+  <advance width="625"/>
+  <unicode hex="0132"/>
+  <unicode hex="0133"/>
+  <outline>
+    <contour>
+      <point x="271.5" y="500" type="line"/>
+      <point x="269" y="500" type="line"/>
+      <point x="4" y="315" type="line"/>
+      <point x="11.5" y="315" type="line"/>
+      <point x="271.5" y="496.5" type="line"/>
+    </contour>
+    <component base="I" xOffset="1" identifier="A79A35B2"/>
+    <component base="J" xOffset="236" identifier="839C0C3D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2021-01-11 14:35:35 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>839C0C3D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A79A35B2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

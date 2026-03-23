@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.halfstemright" format="2">
+  <advance width="286"/>
+  <outline>
+    <component base="_part.stem" identifier="72379293"/>
+    <component base="_part.longserif" xScale="-1" yScale="-1" xOffset="286" yOffset="700" identifier="31E26412"/>
+    <component base="_part.shortserif" xOffset="92" identifier="7B538333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-04 12:13:06 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>31E26412</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>72379293</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>7B538333</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U" format="2">
+  <advance width="505"/>
+  <unicode hex="0055"/>
+  <guideline x="442" y="708" angle="0"/>
+  <anchor x="295" y="0" name="bottom"/>
+  <anchor x="402" y="0" name="ogonek"/>
+  <anchor x="295" y="700" name="top"/>
+  <anchor x="485" y="700" name="topright"/>
+  <outline>
+    <contour>
+      <point x="305" y="-5" type="curve" smooth="yes"/>
+      <point x="351" y="-5"/>
+      <point x="401" y="-3"/>
+      <point x="465" y="0" type="curve"/>
+      <point x="422" y="100" type="line"/>
+      <point x="411" y="95"/>
+      <point x="354" y="83"/>
+      <point x="305" y="83" type="curve" smooth="yes"/>
+      <point x="283" y="83"/>
+      <point x="252" y="83"/>
+      <point x="215" y="92" type="curve"/>
+      <point x="175" y="130"/>
+      <point x="147" y="174"/>
+      <point x="133" y="238" type="curve"/>
+      <point x="147" y="362"/>
+      <point x="177" y="530"/>
+      <point x="235" y="700" type="curve"/>
+      <point x="131" y="700" type="line"/>
+      <point x="78" y="526"/>
+      <point x="58" y="419"/>
+      <point x="40" y="291" type="curve" smooth="yes"/>
+      <point x="36" y="265"/>
+      <point x="35" y="244"/>
+      <point x="35" y="228" type="curve"/>
+      <point x="45" y="154"/>
+      <point x="102" y="51"/>
+      <point x="164" y="0" type="curve"/>
+      <point x="211" y="-3"/>
+      <point x="267" y="-5"/>
+    </contour>
+    <contour>
+      <point x="416" y="0" type="line"/>
+      <point x="465" y="0" type="line"/>
+      <point x="465" y="96" type="line"/>
+      <point x="355" y="83" type="line"/>
+    </contour>
+    <component base="_part.barra" xOffset="272"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-10-02 14:40:13 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

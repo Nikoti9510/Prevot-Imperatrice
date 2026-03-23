@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eacute_period_E.liga.dlig" format="2">
+  <advance width="664"/>
+  <outline>
+    <contour>
+      <point x="284" y="0" type="curve"/>
+      <point x="391" y="0" type="line"/>
+      <point x="386" y="138"/>
+      <point x="382" y="265"/>
+      <point x="382" y="389" type="curve" smooth="yes"/>
+      <point x="382" y="494"/>
+      <point x="385" y="596"/>
+      <point x="391" y="700" type="curve"/>
+      <point x="284" y="700" type="line"/>
+      <point x="290" y="590"/>
+      <point x="292" y="490"/>
+      <point x="292" y="386" type="curve" smooth="yes"/>
+      <point x="292" y="267"/>
+      <point x="289" y="144"/>
+    </contour>
+    <contour>
+      <point x="52" y="0" type="curve"/>
+      <point x="332" y="0" type="line"/>
+      <point x="332" y="82" type="line"/>
+      <point x="44" y="92" type="line"/>
+      <point x="30" y="65" type="line"/>
+      <point x="34" y="38"/>
+      <point x="42" y="17"/>
+    </contour>
+    <contour>
+      <point x="332" y="0" type="line"/>
+      <point x="612" y="0" type="line"/>
+      <point x="622" y="17"/>
+      <point x="630" y="38"/>
+      <point x="634" y="65" type="curve"/>
+      <point x="620" y="92" type="line"/>
+      <point x="332" y="82" type="line"/>
+    </contour>
+    <contour>
+      <point x="135" y="294" type="curve"/>
+      <point x="332" y="304" type="line"/>
+      <point x="332" y="383" type="line"/>
+      <point x="107" y="393" type="line"/>
+      <point x="97" y="363" type="line"/>
+      <point x="104" y="340"/>
+      <point x="116" y="319"/>
+    </contour>
+    <contour>
+      <point x="529" y="294" type="line"/>
+      <point x="548" y="319"/>
+      <point x="560" y="340"/>
+      <point x="567" y="363" type="curve"/>
+      <point x="557" y="393" type="line"/>
+      <point x="332" y="383" type="line"/>
+      <point x="332" y="304" type="line"/>
+    </contour>
+    <contour>
+      <point x="57" y="608" type="curve"/>
+      <point x="332" y="618" type="line"/>
+      <point x="332" y="700" type="line"/>
+      <point x="49" y="700" type="line"/>
+      <point x="35" y="673" type="line"/>
+      <point x="39" y="646"/>
+      <point x="47" y="625"/>
+    </contour>
+    <contour>
+      <point x="607" y="608" type="line"/>
+      <point x="617" y="625"/>
+      <point x="625" y="646"/>
+      <point x="629" y="673" type="curve"/>
+      <point x="615" y="700" type="line"/>
+      <point x="332" y="700" type="line"/>
+      <point x="332" y="618" type="line"/>
+    </contour>
+    <component base="acutecomb" xOffset="227" yOffset="230"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:09:32 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

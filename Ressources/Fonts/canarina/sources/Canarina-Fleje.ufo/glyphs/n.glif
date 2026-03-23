@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n" format="2">
+  <advance width="488"/>
+  <unicode hex="006E"/>
+  <anchor x="244" y="0" name="bottom"/>
+  <anchor x="244" y="500" name="top"/>
+  <outline>
+    <component base="_part.arcon" xOffset="-10" identifier="5B90DBF9"/>
+    <component base="_part.barrai" xOffset="-10" identifier="535C0DCF"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-27 08:34:18 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>535C0DCF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>5B90DBF9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

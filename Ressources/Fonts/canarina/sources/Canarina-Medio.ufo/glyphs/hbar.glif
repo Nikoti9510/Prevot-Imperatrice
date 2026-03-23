@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar" format="2">
+  <advance width="441"/>
+  <unicode hex="0127"/>
+  <outline>
+    <contour>
+      <point x="251" y="513" type="line"/>
+      <point x="264" y="520"/>
+      <point x="273" y="526"/>
+      <point x="281" y="534" type="curve"/>
+      <point x="286" y="549"/>
+      <point x="286" y="586"/>
+      <point x="281" y="605" type="curve"/>
+      <point x="23" y="605" type="line"/>
+      <point x="15" y="587"/>
+      <point x="8" y="564"/>
+      <point x="5" y="544" type="curve"/>
+      <point x="8" y="536"/>
+      <point x="12" y="528"/>
+      <point x="17" y="521" type="curve"/>
+      <point x="71" y="526" type="line"/>
+      <point x="124" y="526" type="line"/>
+    </contour>
+    <component base="h" xOffset="5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:08:22 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>h</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

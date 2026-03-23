@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M.ss03" format="2">
+  <advance width="557"/>
+  <outline>
+    <contour>
+      <point x="424" y="0" type="line"/>
+      <point x="526" y="0" type="line"/>
+      <point x="356.5" y="737" type="line"/>
+      <point x="307" y="504" type="line"/>
+    </contour>
+    <contour>
+      <point x="24" y="0" type="line"/>
+      <point x="28.5" y="0" type="line"/>
+      <point x="196" y="726" type="line"/>
+      <point x="193.5" y="737" type="line"/>
+    </contour>
+    <contour>
+      <point x="195.5" y="-49" type="line"/>
+      <point x="254.5" y="243" type="line"/>
+      <point x="193.5" y="737" type="line"/>
+      <point x="126" y="443" type="line"/>
+    </contour>
+    <contour>
+      <point x="195.5" y="-49" type="line"/>
+      <point x="359.5" y="729" type="line"/>
+      <point x="356.5" y="737" type="line"/>
+      <point x="195" y="-22.5" type="line"/>
+    </contour>
+    <component base="_part.longserif" xOffset="331" yOffset="-696" identifier="9651595A"/>
+    <component base="_part.shortserif" xOffset="-60" yOffset="-696" identifier="E5DFFCB8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2021-01-11 14:54:43 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>A</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>9651595A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E5DFFCB8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

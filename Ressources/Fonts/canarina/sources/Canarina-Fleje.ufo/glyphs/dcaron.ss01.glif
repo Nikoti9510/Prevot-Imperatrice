@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcaron.ss01" format="2">
+  <advance width="630"/>
+  <anchor x="206" y="0" name="bottom"/>
+  <anchor x="206" y="245" name="center"/>
+  <anchor x="331" y="888" name="top"/>
+  <anchor x="425" y="490" name="topright"/>
+  <outline>
+    <contour>
+      <point x="576" y="501" type="line"/>
+      <point x="613" y="608" type="line"/>
+      <point x="615" y="693" type="line"/>
+      <point x="596" y="693" type="line"/>
+      <point x="477" y="670" type="line"/>
+      <point x="483" y="584" type="line"/>
+      <point x="456" y="507" type="line"/>
+    </contour>
+    <component base="d.ss01"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:08:22 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>d.ss01</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

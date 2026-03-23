@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2D51" format="2">
+  <advance width="260"/>
+  <unicode hex="2D51"/>
+  <outline>
+    <contour>
+      <point x="59" y="0" type="curve"/>
+      <point x="196" y="0" type="line"/>
+      <point x="196" y="247"/>
+      <point x="206" y="606"/>
+      <point x="210" y="700" type="curve"/>
+      <point x="50" y="700" type="line"/>
+      <point x="56" y="484"/>
+      <point x="59" y="286"/>
+    </contour>
+    <contour>
+      <point x="51" y="-200" type="line"/>
+      <point x="199" y="-200" type="line"/>
+      <point x="196" y="-61" type="line"/>
+      <point x="56" y="-61" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:08:22 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

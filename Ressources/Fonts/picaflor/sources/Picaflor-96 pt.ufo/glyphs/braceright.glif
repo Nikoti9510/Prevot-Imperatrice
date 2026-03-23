@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceright" format="2">
+  <advance width="250.5"/>
+  <unicode hex="007D"/>
+  <outline>
+    <contour>
+      <point x="93" y="550" type="curve"/>
+      <point x="183" y="550" type="line"/>
+      <point x="183" y="684"/>
+      <point x="148" y="754"/>
+      <point x="8" y="753.5" type="curve"/>
+      <point x="8" y="749.5" type="line"/>
+      <point x="83.5" y="749"/>
+      <point x="93" y="683.5"/>
+    </contour>
+    <contour>
+      <point x="8" y="-48.5" type="curve"/>
+      <point x="8" y="-52.5" type="line"/>
+      <point x="148" y="-53"/>
+      <point x="183" y="17"/>
+      <point x="183" y="151" type="curve"/>
+      <point x="93" y="151" type="line"/>
+      <point x="93" y="17.5"/>
+      <point x="83.5" y="-48"/>
+    </contour>
+    <contour>
+      <point x="93" y="151" type="curve"/>
+      <point x="183" y="151" type="line"/>
+      <point x="183" y="307"/>
+      <point x="195" y="347"/>
+      <point x="243" y="347.5" type="curve"/>
+      <point x="243" y="353.5" type="line"/>
+      <point x="168" y="354"/>
+      <point x="93" y="314.5"/>
+    </contour>
+    <contour>
+      <point x="243" y="347.5" type="curve"/>
+      <point x="243" y="353.5" type="line"/>
+      <point x="195" y="354"/>
+      <point x="183" y="394"/>
+      <point x="183" y="550" type="curve"/>
+      <point x="93" y="550" type="line"/>
+      <point x="93" y="386.5"/>
+      <point x="168" y="347"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-09-28 18:09:57 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

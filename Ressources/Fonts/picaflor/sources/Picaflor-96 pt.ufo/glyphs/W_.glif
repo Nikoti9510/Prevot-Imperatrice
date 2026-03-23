@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="622"/>
+  <unicode hex="0057"/>
+  <unicode hex="0077"/>
+  <anchor x="316" y="0" name="bottom"/>
+  <anchor x="321" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="428.5" y="-37" type="line"/>
+      <point x="480" y="187" type="line"/>
+      <point x="361" y="700" type="line"/>
+      <point x="259" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="200.5" y="-37" type="line"/>
+      <point x="252" y="187" type="line"/>
+      <point x="133" y="700" type="line"/>
+      <point x="31" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="341" y="595" type="line"/>
+      <point x="198" y="-24" type="line"/>
+      <point x="200.5" y="-37" type="line"/>
+      <point x="346" y="595" type="line"/>
+    </contour>
+    <contour>
+      <point x="428.5" y="-37" type="line"/>
+      <point x="598" y="700" type="line"/>
+      <point x="593.5" y="700" type="line"/>
+      <point x="426" y="-24" type="line"/>
+    </contour>
+    <component base="_part.longserif" xOffset="-60" identifier="1ED3F7A4"/>
+    <component base="_part.shortserif" xOffset="488" identifier="EC2B2B26"/>
+    <component base="_part.longserif" xOffset="166" identifier="F301755A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-10-30 17:53:49 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>A</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1ED3F7A4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>EC2B2B26</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F301755A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

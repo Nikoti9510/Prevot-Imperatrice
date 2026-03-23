@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M" format="2">
+  <advance width="544"/>
+  <unicode hex="004D"/>
+  <unicode hex="006D"/>
+  <anchor x="272" y="0" name="bottom"/>
+  <anchor x="272" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="226" y="-58" type="line"/>
+      <point x="272" y="178.5" type="line"/>
+      <point x="170" y="700" type="line"/>
+      <point x="78" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="234.5" y="-0.5" type="line"/>
+      <point x="238" y="3" type="line"/>
+      <point x="374" y="700" type="line"/>
+      <point x="370" y="700" type="line"/>
+    </contour>
+    <component base="_part.shortserif" xOffset="338.5" identifier="D0C90076"/>
+    <component base="_part.stemthin" xOffset="-2" identifier="30B5D77F"/>
+    <component base="_part.halfstemright" xOffset="280" identifier="DEACB20F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-10-30 17:53:49 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>30B5D77F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D0C90076</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DEACB20F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

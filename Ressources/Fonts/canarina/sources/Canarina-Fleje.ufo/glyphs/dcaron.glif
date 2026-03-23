@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcaron" format="2">
+  <advance width="599"/>
+  <unicode hex="010F"/>
+  <outline>
+    <contour>
+      <point x="583" y="481" type="line"/>
+      <point x="627" y="608" type="line"/>
+      <point x="629" y="700" type="line"/>
+      <point x="580" y="700" type="line"/>
+      <point x="511" y="677" type="line"/>
+      <point x="517" y="584" type="line"/>
+      <point x="483" y="487" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:08:22 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

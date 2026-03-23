@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E.ss01" format="2">
+  <advance width="443"/>
+  <anchor x="209" y="0" name="bottom"/>
+  <anchor x="280" y="0" name="ogonek"/>
+  <anchor x="209" y="700" name="top"/>
+  <anchor x="-4" y="700" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="303" y="0" type="line"/>
+      <point x="375" y="1" type="line"/>
+      <point x="437" y="263" type="line"/>
+      <point x="427" y="263" type="line"/>
+    </contour>
+    <contour>
+      <point x="201" y="0" type="line"/>
+      <point x="337" y="0" type="line"/>
+      <point x="337" y="4" type="line"/>
+      <point x="201" y="4" type="line"/>
+    </contour>
+    <contour>
+      <point x="221" y="696" type="line"/>
+      <point x="347" y="696" type="line"/>
+      <point x="347" y="700" type="line"/>
+      <point x="221" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="412" y="557" type="line"/>
+      <point x="419" y="564" type="line"/>
+      <point x="354" y="700" type="line"/>
+      <point x="303" y="700" type="line"/>
+      <point x="339" y="625" type="line"/>
+    </contour>
+    <component base="_part.stemserifs" xOffset="-22" identifier="8AD4E63E"/>
+    <component base="_part.wavestrokehorizontal" xOffset="113" yOffset="80" identifier="BBC97194"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-04 12:17:24 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>E</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>8AD4E63E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BBC97194</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2D42" format="2">
+  <advance width="318"/>
+  <unicode hex="2D42"/>
+  <outline>
+    <component base="_part.tuaregpoint" yOffset="-10" identifier="7DBE71ED"/>
+    <component base="_part.tuaregpoint" yOffset="201" identifier="5FEC6D3C"/>
+    <component base="_part.tuaregpoint" yOffset="418" identifier="8DFCA6F8"/>
+    <component base="_part.tuaregpoint" yOffset="628" identifier="F331B0F4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-18 14:22:39 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5FEC6D3C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>7DBE71ED</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>8DFCA6F8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F331B0F4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

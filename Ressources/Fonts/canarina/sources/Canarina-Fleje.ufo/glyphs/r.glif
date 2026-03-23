@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r" format="2">
+  <advance width="361"/>
+  <unicode hex="0072"/>
+  <anchor x="117" y="0" name="bottom"/>
+  <anchor x="216" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="118" y="201" type="curve"/>
+      <point x="178" y="187" type="line"/>
+      <point x="191" y="258"/>
+      <point x="225" y="339"/>
+      <point x="255" y="372" type="curve"/>
+      <point x="273" y="368"/>
+      <point x="301" y="354"/>
+      <point x="319" y="340" type="curve"/>
+      <point x="349" y="480" type="line"/>
+      <point x="317" y="500"/>
+      <point x="282" y="512"/>
+      <point x="238" y="518" type="curve"/>
+      <point x="198" y="437"/>
+      <point x="133" y="298"/>
+    </contour>
+    <component base="_part.barrai" xOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-10-02 14:07:41 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>n</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

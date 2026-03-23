@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="OE" format="2">
+  <advance width="742"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="705" y="558" type="line"/>
+      <point x="715" y="585"/>
+      <point x="723" y="616"/>
+      <point x="727" y="653" type="curve"/>
+      <point x="713" y="700" type="line"/>
+      <point x="395" y="700" type="line"/>
+      <point x="393" y="578" type="line"/>
+    </contour>
+    <contour>
+      <point x="398" y="0" type="line"/>
+      <point x="693" y="0" type="line"/>
+      <point x="703" y="17"/>
+      <point x="711" y="48"/>
+      <point x="715" y="85" type="curve"/>
+      <point x="701" y="142" type="line"/>
+      <point x="398" y="122" type="line"/>
+    </contour>
+    <contour>
+      <point x="635" y="274" type="line"/>
+      <point x="654" y="299"/>
+      <point x="666" y="330"/>
+      <point x="673" y="363" type="curve"/>
+      <point x="663" y="413" type="line"/>
+      <point x="398" y="403" type="line"/>
+      <point x="398" y="284" type="line"/>
+    </contour>
+    <component base="_part.cg" xOffset="-4"/>
+    <component base="_part.barra" xOffset="266"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-27 08:39:05 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

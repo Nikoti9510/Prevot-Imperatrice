@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T_h.liga" format="2">
+  <advance width="906"/>
+  <outline>
+    <contour>
+      <point x="39" y="608" type="curve"/>
+      <point x="280" y="618" type="line"/>
+      <point x="453" y="608" type="line"/>
+      <point x="471" y="637" type="line"/>
+      <point x="471" y="700" type="line"/>
+      <point x="47" y="700" type="line"/>
+      <point x="37" y="683"/>
+      <point x="29" y="662"/>
+      <point x="25" y="635" type="curve"/>
+      <point x="28" y="625"/>
+      <point x="33" y="616"/>
+    </contour>
+    <component base="_part.barra" xOffset="165"/>
+    <component base="h" xOffset="470"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:08:22 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>h</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

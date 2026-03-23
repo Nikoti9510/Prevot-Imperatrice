@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M.ss04" format="2">
+  <advance width="556.5"/>
+  <outline>
+    <contour>
+      <point x="359.5" y="0" type="line"/>
+      <point x="459.5" y="0" type="line"/>
+      <point x="459.5" y="700" type="line"/>
+      <point x="374" y="700" type="line"/>
+      <point x="359.5" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="225" y="484" type="line"/>
+      <point x="281.5" y="561.5" type="line"/>
+      <point x="184.5" y="700" type="line"/>
+      <point x="74.5" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="226" y="482.5" type="line"/>
+      <point x="379" y="700" type="line"/>
+      <point x="341.5" y="700" type="line"/>
+      <point x="208" y="509" type="line"/>
+    </contour>
+    <component base="_part.stemthin" xOffset="11" identifier="98CC04CF"/>
+    <component base="_part.longserif" xScale="-1" yScale="-1" xOffset="566" yOffset="700" identifier="317AA00D"/>
+    <component base="_part.shortserif" xOffset="346" identifier="D3EEC51A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-11-09 15:48:38 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>317AA00D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>98CC04CF</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D3EEC51A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

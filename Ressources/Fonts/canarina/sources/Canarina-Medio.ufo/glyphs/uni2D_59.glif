@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2D59" format="2">
+  <advance width="785"/>
+  <unicode hex="2D59"/>
+  <outline>
+    <contour>
+      <point x="383" y="268" type="curve" smooth="yes"/>
+      <point x="427" y="268"/>
+      <point x="474" y="303"/>
+      <point x="474" y="360" type="curve" smooth="yes"/>
+      <point x="474" y="404"/>
+      <point x="441" y="430"/>
+      <point x="406" y="430" type="curve" smooth="yes"/>
+      <point x="362" y="430"/>
+      <point x="311" y="398"/>
+      <point x="311" y="338" type="curve" smooth="yes"/>
+      <point x="311" y="293"/>
+      <point x="346" y="268"/>
+    </contour>
+    <component base="uni2D54"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:08:22 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>yar-tifi</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>yar-tifi</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat" format="2">
+  <advance width="483"/>
+  <unicode hex="0111"/>
+  <outline>
+    <contour>
+      <point x="183" y="548" type="curve"/>
+      <point x="345" y="561" type="line"/>
+      <point x="398" y="561" type="line"/>
+      <point x="496" y="556" type="line"/>
+      <point x="500" y="562"/>
+      <point x="505" y="577"/>
+      <point x="508" y="594" type="curve"/>
+      <point x="505" y="621"/>
+      <point x="498" y="652"/>
+      <point x="490" y="670" type="curve"/>
+      <point x="153" y="670" type="line"/>
+      <point x="145" y="641"/>
+      <point x="145" y="607"/>
+      <point x="153" y="584" type="curve"/>
+      <point x="160" y="568"/>
+      <point x="172" y="554"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:08:22 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

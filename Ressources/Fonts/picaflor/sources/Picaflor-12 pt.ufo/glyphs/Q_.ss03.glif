@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q.ss03" format="2">
+  <advance width="532"/>
+  <outline>
+    <contour>
+      <point x="395.5" y="-145" type="curve"/>
+      <point x="395.5" y="-137" type="line"/>
+      <point x="354.5" y="-137"/>
+      <point x="344.5" y="-82"/>
+      <point x="344.5" y="0" type="curve"/>
+      <point x="249.5" y="0" type="line"/>
+      <point x="249.5" y="-104.5"/>
+      <point x="290.5" y="-145"/>
+    </contour>
+    <contour>
+      <point x="198.5" y="145" type="curve"/>
+      <point x="198.5" y="137" type="line"/>
+      <point x="239.5" y="137"/>
+      <point x="249.5" y="82"/>
+      <point x="249.5" y="0" type="curve"/>
+      <point x="344.5" y="0" type="line"/>
+      <point x="344.5" y="104.5"/>
+      <point x="303.5" y="145"/>
+    </contour>
+    <component base="O.ss03" identifier="1BDC40A1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-11-09 15:48:38 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1BDC40A1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

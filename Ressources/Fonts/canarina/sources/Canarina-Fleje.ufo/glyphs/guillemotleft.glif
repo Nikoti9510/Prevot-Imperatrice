@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemotleft" format="2">
+  <advance width="423"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="139" y="66" type="curve"/>
+      <point x="218" y="125" type="line"/>
+      <point x="184" y="162"/>
+      <point x="151" y="204"/>
+      <point x="136" y="242" type="curve"/>
+      <point x="150" y="282"/>
+      <point x="175" y="323"/>
+      <point x="211" y="364" type="curve"/>
+      <point x="138" y="421" type="line"/>
+      <point x="85" y="362"/>
+      <point x="63" y="326"/>
+      <point x="35" y="262" type="curve"/>
+      <point x="35" y="223" type="line"/>
+      <point x="60" y="157"/>
+      <point x="95" y="108"/>
+    </contour>
+    <contour>
+      <point x="332" y="76" type="curve"/>
+      <point x="398" y="145" type="line"/>
+      <point x="357" y="178"/>
+      <point x="324" y="211"/>
+      <point x="306" y="242" type="curve"/>
+      <point x="324" y="282"/>
+      <point x="345" y="313"/>
+      <point x="381" y="354" type="curve"/>
+      <point x="308" y="411" type="line"/>
+      <point x="255" y="352"/>
+      <point x="237" y="326"/>
+      <point x="205" y="262" type="curve"/>
+      <point x="205" y="217" type="line"/>
+      <point x="231" y="169"/>
+      <point x="272" y="121"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:08:22 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

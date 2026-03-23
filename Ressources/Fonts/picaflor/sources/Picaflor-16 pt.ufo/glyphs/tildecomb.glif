@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb" format="2">
+  <advance width="0"/>
+  <unicode hex="0303"/>
+  <anchor x="162.5" y="700" name="_top"/>
+  <anchor x="162.5" y="828.5" name="top"/>
+  <outline>
+    <contour>
+      <point x="192.5" y="754.5" type="curve" smooth="yes"/>
+      <point x="227.5" y="754.5"/>
+      <point x="269" y="783"/>
+      <point x="294" y="825.5" type="curve"/>
+      <point x="276" y="830.5" type="line"/>
+      <point x="254" y="808"/>
+      <point x="233.5" y="800"/>
+      <point x="211.5" y="800" type="curve" smooth="yes"/>
+      <point x="170" y="800"/>
+      <point x="156" y="829"/>
+      <point x="115" y="829" type="curve" smooth="yes"/>
+      <point x="88" y="829"/>
+      <point x="55.5" y="806"/>
+      <point x="35" y="771" type="curve"/>
+      <point x="53" y="766" type="line"/>
+      <point x="69.5" y="786"/>
+      <point x="83.5" y="793"/>
+      <point x="97.5" y="793" type="curve" smooth="yes"/>
+      <point x="126.5" y="793"/>
+      <point x="152" y="754.5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2021-01-01 18:08:54 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

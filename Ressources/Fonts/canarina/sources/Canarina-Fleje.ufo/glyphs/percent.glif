@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="percent" format="2">
+  <advance width="692"/>
+  <unicode hex="0025"/>
+  <outline>
+    <contour>
+      <point x="59" y="0" type="curve"/>
+      <point x="259" y="0" type="line"/>
+      <point x="438" y="387" type="line"/>
+      <point x="644" y="700" type="line"/>
+      <point x="437" y="700" type="line"/>
+      <point x="380" y="568"/>
+      <point x="343" y="482"/>
+      <point x="290" y="384" type="curve" smooth="yes"/>
+      <point x="229" y="272"/>
+      <point x="149" y="158"/>
+    </contour>
+    <component base="_part.ya" xOffset="348" yOffset="-1"/>
+    <component base="_part.ya" xOffset="-4" yOffset="450"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:08:22 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance width="415"/>
+  <unicode hex="0045"/>
+  <unicode hex="0065"/>
+  <anchor x="195" y="0" name="bottom"/>
+  <anchor x="295" y="0" name="ogonek"/>
+  <anchor x="209" y="700" name="top"/>
+  <anchor x="-4" y="700" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="315" y="0" type="line"/>
+      <point x="354" y="0" type="line"/>
+      <point x="409" y="168" type="line"/>
+      <point x="402" y="168" type="line"/>
+    </contour>
+    <contour>
+      <point x="201" y="0" type="line"/>
+      <point x="337" y="0" type="line"/>
+      <point x="337" y="4" type="line"/>
+      <point x="201" y="4" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="309" type="line"/>
+      <point x="268" y="309" type="line"/>
+      <point x="268" y="425" type="line"/>
+      <point x="243" y="425" type="line"/>
+    </contour>
+    <contour>
+      <point x="161" y="421" type="line"/>
+      <point x="268" y="421" type="line"/>
+      <point x="268" y="425" type="line"/>
+      <point x="161" y="425" type="line"/>
+    </contour>
+    <contour>
+      <point x="243" y="421" type="line"/>
+      <point x="268" y="421" type="line"/>
+      <point x="268" y="537" type="line"/>
+      <point x="260" y="537" type="line"/>
+    </contour>
+    <contour>
+      <point x="372" y="532" type="line"/>
+      <point x="379" y="532" type="line"/>
+      <point x="354" y="700" type="line"/>
+      <point x="315" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="221" y="696" type="line"/>
+      <point x="347" y="696" type="line"/>
+      <point x="347" y="700" type="line"/>
+      <point x="221" y="700" type="line"/>
+    </contour>
+    <component base="_part.stemserifs" xOffset="-22" identifier="71A59553"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-04 12:17:44 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>71A59553</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

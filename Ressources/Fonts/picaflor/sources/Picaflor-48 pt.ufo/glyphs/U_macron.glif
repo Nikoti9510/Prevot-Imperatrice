@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Umacron" format="2">
+  <advance width="454"/>
+  <unicode hex="016A"/>
+  <unicode hex="016B"/>
+  <outline>
+    <component base="U"/>
+    <component base="uni0304" xOffset="110"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-10-30 17:53:49 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

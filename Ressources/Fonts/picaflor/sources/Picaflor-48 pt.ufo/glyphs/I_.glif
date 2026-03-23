@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I" format="2">
+  <advance width="250"/>
+  <unicode hex="0049"/>
+  <unicode hex="0069"/>
+  <anchor x="125" y="0" name="bottom"/>
+  <anchor x="159" y="0" name="ogonek"/>
+  <anchor x="125" y="700" name="top"/>
+  <anchor x="0" y="700" name="topleft"/>
+  <outline>
+    <component base="_part.stemserifs" xOffset="-20" identifier="AEA90CF3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-04 12:18:53 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>AEA90CF3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

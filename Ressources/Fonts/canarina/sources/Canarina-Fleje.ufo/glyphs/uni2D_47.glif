@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2D47" format="2">
+  <advance width="579"/>
+  <unicode hex="2D47"/>
+  <outline>
+    <contour>
+      <point x="122" y="0" type="line"/>
+      <point x="537" y="0" type="line"/>
+      <point x="547" y="17"/>
+      <point x="555" y="48"/>
+      <point x="559" y="85" type="curve"/>
+      <point x="556" y="105"/>
+      <point x="551" y="124"/>
+      <point x="545" y="142" type="curve"/>
+      <point x="122" y="122" type="line"/>
+    </contour>
+    <component base="_part.triangletifi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:08:22 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

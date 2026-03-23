@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance width="491"/>
+  <unicode hex="0045"/>
+  <guideline x="382" y="363" angle="90"/>
+  <anchor x="246" y="0" name="bottom"/>
+  <anchor x="369" y="0" name="ogonek"/>
+  <anchor x="246" y="700" name="top"/>
+  <anchor x="20" y="700" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="454" y="558" type="line"/>
+      <point x="464" y="585"/>
+      <point x="472" y="616"/>
+      <point x="476" y="653" type="curve"/>
+      <point x="462" y="700" type="line"/>
+      <point x="104" y="700" type="line"/>
+      <point x="102" y="578" type="line"/>
+    </contour>
+    <contour>
+      <point x="107" y="0" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="452" y="17"/>
+      <point x="460" y="48"/>
+      <point x="464" y="85" type="curve"/>
+      <point x="461" y="105"/>
+      <point x="456" y="124"/>
+      <point x="450" y="142" type="curve"/>
+      <point x="107" y="122" type="line"/>
+    </contour>
+    <contour>
+      <point x="354" y="274" type="line"/>
+      <point x="373" y="299"/>
+      <point x="385" y="330"/>
+      <point x="392" y="363" type="curve"/>
+      <point x="382" y="413" type="line"/>
+      <point x="107" y="403" type="line"/>
+      <point x="107" y="284" type="line"/>
+    </contour>
+    <component base="_part.barra" xOffset="-25"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:09:18 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

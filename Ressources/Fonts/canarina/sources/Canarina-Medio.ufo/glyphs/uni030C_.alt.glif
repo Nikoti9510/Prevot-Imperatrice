@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni030C.alt" format="2">
+  <advance width="0"/>
+  <anchor x="20" y="480" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="89" y="470" type="line"/>
+      <point x="116" y="598" type="line"/>
+      <point x="116" y="633" type="line"/>
+      <point x="46" y="644" type="line"/>
+      <point x="20" y="480" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:08:22 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

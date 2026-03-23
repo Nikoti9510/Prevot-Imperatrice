@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.dot" format="2">
+  <advance width="199"/>
+  <outline>
+    <contour>
+      <point x="32" y="554" type="line"/>
+      <point x="170" y="567" type="line"/>
+      <point x="170" y="700" type="line"/>
+      <point x="29" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-23 11:08:22 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

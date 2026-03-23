@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2D58" format="2">
+  <advance width="718"/>
+  <unicode hex="2D58"/>
+  <outline>
+    <component base="_part.tuaregpoint" yOffset="93" identifier="409ABDF3"/>
+    <component base="_part.tuaregpoint" yOffset="517" identifier="F0ED1F90"/>
+    <component base="_part.tuaregpoint" xOffset="400" yOffset="93" identifier="CEB880B2"/>
+    <component base="_part.tuaregpoint" xOffset="400" yOffset="517" identifier="C9E707BC"/>
+    <component base="_part.tuaregpoint" xOffset="200" yOffset="305" identifier="CC9EE009"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-09-18 14:22:39 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>409ABDF3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C9E707BC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CC9EE009</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CEB880B2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F0ED1F90</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

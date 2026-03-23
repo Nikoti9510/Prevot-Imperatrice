@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L" format="2">
+  <advance width="377"/>
+  <unicode hex="004C"/>
+  <unicode hex="006C"/>
+  <anchor x="221" y="0" name="bottom"/>
+  <anchor x="121" y="350" name="center"/>
+  <anchor x="121" y="700" name="top"/>
+  <anchor x="369" y="700" name="topright"/>
+  <outline>
+    <contour>
+      <point x="291.5" y="0" type="line"/>
+      <point x="342" y="0" type="line"/>
+      <point x="364" y="233" type="line"/>
+      <point x="355.5" y="233" type="line"/>
+    </contour>
+    <contour>
+      <point x="221" y="0" type="line"/>
+      <point x="307" y="0" type="line"/>
+      <point x="307" y="4" type="line"/>
+      <point x="221" y="4" type="line"/>
+    </contour>
+    <component base="_part.stemserifs" xOffset="-22" identifier="8A33D1EB"/>
+    <contour>
+      <point x="237" y="696" type="line"/>
+      <point x="237" y="700" type="line"/>
+      <point x="17" y="700" type="line"/>
+      <point x="17" y="696" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-04-04 12:16:26 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>8A33D1EB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
